@@ -96,8 +96,7 @@ Agent System: Reinforcement learning-based feedback loop with real-time updates
 🚀 Installation
 
 # Clone the repository
-git clone https://github.com/your-username/AgriSAGE.git
-cd AgriSAGE
+https://github.com/harshrajput92433/agro-sage-official.git
 
 # Install dependencies
 pip install -r requirements.txt
