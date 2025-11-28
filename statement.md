@@ -4,7 +4,7 @@
 ![Domain](https://img.shields.io/badge/Domain-Agriculture-green)
 ![Technology](https://img.shields.io/badge/Technology-AI%20%2F%20Deep%20Learning-yellow)
 ![Model](https://img.shields.io/badge/Model-AgriSage_Official-success)
-![Accuracy](https://img.shields.io/badge/Accuracy-97.84%25-brightgreen)
+![Accuracy](https://img.shields.io/badge/Accuracy-96.4%25-brightgreen)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Dataset](https://img.shields.io/badge/Dataset-PlantVillage-lightgrey)
 ![Framework](https://img.shields.io/badge/Framework-TensorFlow-orange)
